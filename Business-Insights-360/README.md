@@ -25,7 +25,7 @@ This view provides a detailed analysis of inventory management, procurement, and
 ### Executive View: 
 This view offers a high-level overview of key performance indicators, allowing executives to make strategic decisions based on real-time data.
 
-🔗 You can find the [report here](https://app.powerbi.com/view?r=eyJrIjoiY2Y2OTlmZDMtMmIwNS00MzUyLWJjOTMtZmJkMjk4NDAwYWQ4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
+🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2Y2OTlmZDMtMmIwNS00MzUyLWJjOTMtZmJkMjk4NDAwYWQ4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
 
 🔗 [Linkedln post](https://www.linkedin.com/posts/abhijeetk597_powerbi-businessinsights-dataanalytics-activity-7107833760296894464-P7OE?utm_source=share&utm_medium=member_desktop)
 
