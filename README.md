@@ -2,5 +2,6 @@
 
 |Sr No.| Project Title | Tools |
 |------|---------------|------------|
-|01|[Telangana Growth Analysis](https://github.com/abhijeetk597/Telangana-growth-analysis)|Power BI|
-|02|[Business Insights 360](https://github.com/abhijeetk597/bi-dashboards/tree/main/Business-Insights-360)|Power BI|
+|03|[Data Analysis in Hospitality Domain]()|Jupyter Notebook, Pandas|
+|02|[Telangana Growth Analysis](https://github.com/abhijeetk597/Telangana-growth-analysis)|Power BI|
+|01|[Business Insights 360](https://github.com/abhijeetk597/bi-dashboards/tree/main/Business-Insights-360)|Power BI|
